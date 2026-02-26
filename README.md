@@ -70,3 +70,6 @@ Foi calculada a autonomia restante após a decolagem.
 
 Samuel Felipe Furtado Freire  
 Curso: Ciência da Computação – FIAP
+## 📸 Execução do Código
+
+![Execução da Missão](print_execucao.png)
